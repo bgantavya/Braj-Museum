@@ -47,6 +47,7 @@ const NavBar = () => {
                     }} className='flex'>
                         <ul className="navbar-links" style={{flexDirection: 'column'}}>
                             <li><Link to="/braj">Braj Darshan</Link></li>
+                            <li><Link to="/ash">shop</Link></li>
                             <li><Link to="/">Home</Link></li>
                         </ul>
                     </div>}
