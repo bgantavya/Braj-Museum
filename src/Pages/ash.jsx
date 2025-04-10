@@ -1,3 +1,15 @@
+import React from 'react';
+import HighLight from '../components/HighLight';
+import TopDestinations from '../components/TopDestinations';
+import MainSection from '../components/Header';
+import Footer from '../components/Footer';
+import Contributors from '../components/contributors';
+
+const Home = () => {
+    return (
+        <>
+            <MainSection />
+
 <html>
 <head>
 <title>
@@ -120,5 +132,17 @@ http://darkweb.onion.encrypted/silkroute/product&name=takeaway+syam+bai?..
 </body>
 </html>
 
+
+
+
+              
+            <Contributors/>
+   
+            <Footer />
+        </>
+    );
+}
+
+export default Home;
 
 
