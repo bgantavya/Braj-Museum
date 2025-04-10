@@ -8,7 +8,7 @@ http://darkweb.onion.encrypted/silkroute/product&name=takeaway+syam+bai?..
 <a href="https://accounts.google.com/v3/signin/identifier?dsh=S-251105521%3A1663080082102715&continue=https%3A%2F%2Fmyaccount.google.com%2F&ec=GAlAwAE&service=accountsettings&flowName=GlifWebSignIn&flowEntry=AddSession" align="right">register/login</a>
 <center><h1><u><b><i><font size= l"40">human</i></b></u></h1></center>
 <center>
-<img src="ash.jpg" alt="our product" width= 500>
+<img src="/views/ash.jpg" alt="our product" width= 500>
 </center>
 
 <hr><hr>
